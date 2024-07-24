@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-div {
+  background-color: rgb(230, 194, 103);
+  height: 500px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+h1 {
+  margin-left: 80px;
+  margin-bottom: 20px;
+}
+
+.input-div {
+  margin-left: 40px;
+  display: flex;
+  gap: 20px;
+}
+li {
+  list-style: none;
+}
+p {
+  background-color: rgb(110, 89, 1);
+  color: #fff;
+  margin: 6px 5px 5px 5px;
+  display: inline;
+}
+
+.complete {
+  display: inline-block;
+  cursor: pointer;
+}
+.delete {
+  display: inline-block;
+  cursor: pointer;
+}
