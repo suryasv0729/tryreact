@@ -41,3 +41,7 @@ p {
   display: inline-block;
   cursor: pointer;
 }
+
+.line {
+  text-decoration: line-through;
+}
